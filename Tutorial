@@ -1,4 +1,12 @@
 ## Git Push Process ##
+
+(First, go to Github, make a repository for your project)
+
+(Second, navigate to your directory on terminal)
+(cd <directory> --> change directory)
+(cd .. --> go back)
+(ls --> show me what's in the directory)
+
 #1. git init
 #2. git add .
 #3 git commit -m "this is a push to add a button to the dashboard"
