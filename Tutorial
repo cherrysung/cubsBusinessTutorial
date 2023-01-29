@@ -1,0 +1,5 @@
+## Git Push Process ##
+#1. git init
+#2. git add .
+#3 git commit -m "this is a push to add a button to the dashboard"
+#4. git push <url>
